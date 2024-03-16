@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "trainperspectivefix",
+  "version": "1.0.0",
+  "name": "Create: Train Perspective Fix",
+  "description": "A very small mod that fixes the problem that the player on a train does not rotate with it while driving.",
+  "authors": [
+    "MrJulsen"
+  ],
+  "contact": {
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/create-train-perspective-fix",
+    "sources": "https://github.com/MisterJulsen/Create-Train-Perspective-Fix",
+    "issues": "https://github.com/MisterJulsen/Create-Train-Perspective-Fix/issues"
+  },
+  "license": "GNU General Public License v3.0",
+  "icon": "icon_256px.png",
+  "environment": "*",
+  "mixins": [
+    "trainperspectivefix.fabric.mixins.json"
+  ],
+  "depends": {
+    "create": ">=${create_version}",
+    "minecraft": ">=${minecraft_version}"
+  }
+}

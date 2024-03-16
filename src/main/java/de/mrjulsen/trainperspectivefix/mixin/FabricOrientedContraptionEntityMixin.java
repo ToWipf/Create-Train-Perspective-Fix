@@ -11,7 +11,7 @@ import net.minecraft.client.Minecraft;
 import net.minecraft.world.phys.Vec3;
 
 @Mixin(OrientedContraptionEntity.class)
-public abstract class ForgeOrientedContraptionEntityMixin {
+public abstract class FabricOrientedContraptionEntityMixin {
 
     private float lastRot = -1;
 
