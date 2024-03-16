@@ -19,4 +19,4 @@ Feel free to join my Discord server for more information about my mods or to sen
 Maybe it's just me, but it really bothers me personally when I'm sitting on a train and it takes a curve and my character doesn't turn with it. This mod is intended to solve exactly this problem. When the mod is installed, the player rotates along with the moving trains, but you can still look around freely. This only works while sitting. When you just stand on a train, nothing changes.
 
 ## **Supported Versions**
-The same version of this mod can be used in all versions from 1.18 and with both Forge and Fabric. The mod is also only needed on the clients. The mod is also client-side only. It doesn't have to be installed on the server and would either do nothing there or even crash the server!
+The same version of this mod can be used in all versions from 1.18 and with both Forge and Fabric. The mod is also client-side only. It doesn't have to be installed on the server and would either do nothing there or even crash the server!
