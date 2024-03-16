@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "de.mrjulsen.trainperspectivefix.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "trainperspectivefix.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "ForgeOrientedContraptionEntityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
+  

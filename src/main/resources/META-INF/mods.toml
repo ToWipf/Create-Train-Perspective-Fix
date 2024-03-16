@@ -1,0 +1,33 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="GNU General Public License v3.0"
+issueTrackerURL="https://github.com/MisterJulsen/Create-Train-Perspective-Fix/issues"
+[[mods]]
+modId="trainperspectivefix"
+version="${file.jarVersion}"
+displayName="Create: Train Perspective Fix"
+updateJSONURL="https://raw.githubusercontent.com/MisterJulsen/Create-Train-Perspective-Fix/forge/update.json"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/create-train-perspective-fix"
+authors="MrJulsen"
+logoFile="icon_256px.png"
+description='''
+A very small mod that fixes the problem that the player on a train does not rotate with it while driving.
+'''
+[[dependencies.trainperspectivefix]] #optional
+    modId="forge"
+    mandatory=true
+    versionRange="[40,)"
+    ordering="NONE"
+    side="CLIENT"
+[[dependencies.trainperspectivefix]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2,)"
+    ordering="NONE"
+    side="CLIENT"
+[[dependencies.trainperspectivefix]]
+    modId="create"
+    mandatory=true
+    versionRange="[0.5.1.a,)"
+    ordering="NONE"
+    side="CLIENT"
